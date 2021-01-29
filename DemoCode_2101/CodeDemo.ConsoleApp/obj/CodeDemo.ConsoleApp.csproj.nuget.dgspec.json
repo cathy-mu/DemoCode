@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SourceCode\\CodeDemo\\CodeDemo\\CodeDemo.ConsoleApp\\CodeDemo.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\SourceCode\\CodeDemo\\CodeDemo\\CodeDemo.ConsoleApp\\CodeDemo.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCode\\CodeDemo\\CodeDemo\\CodeDemo.ConsoleApp\\CodeDemo.ConsoleApp.csproj",
+        "projectName": "CodeDemo.ConsoleApp",
+        "projectPath": "D:\\SourceCode\\CodeDemo\\CodeDemo\\CodeDemo.ConsoleApp\\CodeDemo.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\cathy.mu\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCode\\CodeDemo\\CodeDemo\\CodeDemo.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\SourceCode\\CodeDemo\\CodeDemo\\NuGet.Config",
+          "C:\\Users\\cathy.mu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "D:\\SourceCode\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
